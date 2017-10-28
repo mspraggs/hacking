@@ -1,2 +1,2 @@
-# hacking
-Adventures in computer security
+# Hacking
+Adventures in information security
